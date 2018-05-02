@@ -1,30 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cloud IT</title>
-    <description>IT-CLoud დაგეხმარებათ მარტივად გადაჭრათ რთული IT საკითხები
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Apr 2018 20:13:04 +0400</pubDate>
-    <lastBuildDate>Fri, 27 Apr 2018 20:13:04 +0400</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
-    
-      <item>
-        <title>Welcome to IT-Cloud</title>
-        <description>&lt;p&gt;IT-Cloud თან ერთად შეგიძლიათ დააზღვიოთ თქვენი ინფორმაცია. არ იციით რამდენად დაცულია , შენახულია და აღდგენადია ის ინფორმაცია , რომელიც მუდმივად უნდა ინახებოდეს დაცულ ადგილას? ამის გარკვევაში ჩვენ დაგეხამრებით მოგვწერეთ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-05-02T15:26:06+04:00</updated><id>/</id><title type="html">IT Cloud - აითი ქლაუდი</title><subtitle>IT-infrastructure IT-quality IT-standards disaster-recovery data-protection</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/04/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-04-28T13:12:42+04:00</published><updated>2018-04-28T13:12:42+04:00</updated><id>/jekyll/update/2018/04/28/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2018/04/28/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-</description>
-        <pubDate>Fri, 27 Apr 2018 14:55:42 +0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2018/04/27/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2018/04/27/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">თქვენი კომპანიის ბაზები განადგურდება!</title><link href="/cloudit/2018/04/28/my-first-post.html" rel="alternate" type="text/html" title="თქვენი კომპანიის ბაზები განადგურდება!" /><published>2018-04-28T13:12:42+04:00</published><updated>2018-04-28T13:12:42+04:00</updated><id>/cloudit/2018/04/28/my-first-post</id><content type="html" xml:base="/cloudit/2018/04/28/my-first-post.html">&lt;p&gt;&lt;img src=&quot;https://fthmb.tqn.com/2l9AYSSdJeaMK3uh4VM9grcSRGw=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/182972366-56aa2cd25f9b58b7d00176c6.jpg&quot; alt=&quot;დაიკარგა ინფორმაცია&quot; title=&quot;დაიკარგა ინფორმაცია&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;კითხეთ თქვენს აიტი ექსპერტს - 
+&lt;strong&gt;როგორ მოიქცევით, &lt;em&gt;როდესაც&lt;/em&gt; თქვენი კომპანიის ფუნქციონირებისთვის აუცილებელი მონაცემები&lt;/strong&gt;, ბაზები ან ფაილები &lt;strong&gt;განადგურდება&lt;/strong&gt;?
+სტატისტიკის მიხედვით, მხოლოდ კომპანიების 6% არეზერვებს მონაცემებს!&lt;/p&gt;
+
+&lt;p&gt;რატომ უნდა მომივიდეს ასეთი რამ?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ვიღაცამ შემთხვევით წაშალა / თავზე გადააწერა&lt;/li&gt;
+  &lt;li&gt;დაზიანდა მყარი დისკი&lt;/li&gt;
+  &lt;li&gt;დაიშიფრა cryptoware ვირუსით&lt;/li&gt;
+  &lt;li&gt;ხანძარი&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;საკითხი არ დგას დაგეკარგებათ თუ არა ინფორმაცია, არამედ &lt;strong&gt;როდის დაგეკარგებათ&lt;/strong&gt; და იქნებით თუ არა ამისთვის მზად.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;შეიძლება დაკარგული ინფორმაციის აღდგენა?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ძირითად შემთხვევებში შეუძლებელია ან საჭიროებს დიდ დროს (დღეებს) და ძვირადღირებულ აპარატურას.&lt;/p&gt;
+
+&lt;p&gt;კომპანიების უმეტესობა ასეთ შემთხვევას მოუმზადებელი ხვდება.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;რა არის გამოსავალი?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;გამოსავალი მარტივი ჩამოსაყალიბებელია და რთული შესასრულებელი&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;განსაზღვრეთ რას იცავთ - ბაზები, ფაილები, პაროლები, იმიჯები, ლიცენზიები, კონფიგურაციები, ინსტრუქციები&lt;/li&gt;
+  &lt;li&gt;შენახვის პერიოდულობა
+    &lt;ul&gt;
+      &lt;li&gt;ბაზა რეზერვირდებოდეს დღეში ერთხელ (რის დაკარგვაც ასატანია),&lt;/li&gt;
+      &lt;li&gt;ფაილები საათში ერთხელ&lt;/li&gt;
+      &lt;li&gt;დანარჩენი ინფორმაცია ინახებოდეს ცვლილებისას&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ერთიანი საცავი, სადაც კრიტიკული ინფორმაცია იყრის თავს&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ტექნიკური გადაწყვეტილება&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;პერიოდული შემოწმება (როგორც მაკდონალდსის ტუალეტში)
+&lt;img src=&quot;http://www.tonibest.com/cdn/7/2006/882/toilet-cleaning-checklist_89857.png&quot; alt=&quot;ტუალეტის შემოწმების გეგმა&quot; title=&quot;ტუალეტის შემოწმების გეგმა&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
