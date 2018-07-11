@@ -1,11 +1,18 @@
 ---
 layout: page
-title: ჩვენი WHY
+title: About
 permalink: /about/
 ---
 
-**ქლაუდ-აითი**ში გვჯერა, რომ მცირე და საშუალო კომპანიების უმრავლესობას სჭირდება აიტი სტანდარტების გაუმჯობესება, რისკების უკეთ აღქმა და აიტის რესურსის უკეთესად განკარგვა და რომ ეს მარტივად არის შესაძლებელი.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-ამიტომ, ჩვენ ვეხმარებით მცირე და საშუალო ზომის კომპანიებს აიტი ინფრასტრუქტურის გაჯანსაღებაში, ინფორმაციის დაკარგვის და კატასტროფის რისკის შემცირებაში, აიტი ხარჯების შემცირებაში და მენეჯმენტის თვალში მნიშვნელოვანი საკითხების აღქმადობის გაზრდაში. 
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-ამას ჩვენ ვაკეთებთ აუდიტის, რეკომენდაციების მიცემის და ცვლილების მენეჯმენტის მეშვეობით.
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
