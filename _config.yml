@@ -17,7 +17,9 @@ title: Cloud IT Blog
 email: info@cloudit.ge
 description: >- # this means to ignore newlines until "baseurl:"
   We believe quality IT infrastructure & standards should be practiced by small and medium sized companies, as it is in large corporations.
+  
   We also beileve that most if not all enterprise solutions can be had for free or a very cheap price.
+  
   We strive to make this happen.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://cloudit.ge" # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,7 +28,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: dinky
+theme: minima
 plugins:
   - jekyll-feed
 
