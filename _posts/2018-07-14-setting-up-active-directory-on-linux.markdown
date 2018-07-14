@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OpenWRT MultiWan Configuration with Load Balancing"
+title:  "Setting up Windows Active Directory on Linux for **FREE**"
 date:   2018-07-11 15:17:57 +0400
 categories: jekyll update
 ---
